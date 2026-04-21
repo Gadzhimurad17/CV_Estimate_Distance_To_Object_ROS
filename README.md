@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CV Estimate Distance To Object
 
 Computer Vision project focused on distance estimation and SLAM experiments.
